@@ -15,11 +15,11 @@ If you wish to collaborate 💡 on something, reach me here:
 
 <p align="center"> 
 <a href=""><img height="40" src="icons/python.png"></a>&nbsp;&nbsp;
-<a href=""><img height="40" src="icons/tensorflow.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/tf.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/pytorch.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/sklearn.png"></a>&nbsp;&nbsp;
-<a href=""><img height="40" src="icons/C.png"></a>&nbsp;&nbsp;
-<a href=""><img height="40" src="icons/C++.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/c.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/c++.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/flask.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/dart.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/flutter.png"></a>&nbsp;&nbsp;
