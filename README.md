@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hi 👋 I'm Chris
 
-<!--
-**frank-chris/frank-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 I am a junior undergraduate at IIT Gandhinagar majoring in Computer Science and Engineering. 
+- ✨ I am passionate about machine learning algorithms and building machine learning applications. 
+- ⚡ I also enjoy app development using Flutter and have worked on mobile apps for my institute. 
 
-Here are some ideas to get you started:
+If you wish to collaborate 💡 on something, reach me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+<a href="http://linkedin.com/in/chrisfrancis09"><img height="40" src="icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:chris.francis@iitgn.ac.in"><img height="40" src="icons/gmail.png"></a>
+</p>
+
+## Tools I love using ❤️ 
+
+<p align="center"> 
+<a href=""><img height="40" src="icons/python.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/tensorflow.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/pytorch.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/sklearn.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/C.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/C++.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/flask.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/dart.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/flutter.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/html.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/js.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/css.png"></a>&nbsp;&nbsp;
+</p>
+
+## GitHub Stats 💻 
+
+![stats](https://github-readme-stats.vercel.app/api?username=frank-chris&show_icons=true&locale=en)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=frank-chris&show_icons=true&locale=en&layout=compact)
+
+![views](https://komarev.com/ghpvc/?username=frank-chris&color=4F94EF&style=flat-square)
