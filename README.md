@@ -28,10 +28,6 @@ If you wish to collaborate 💡 on something, reach me here:
 <a href=""><img height="40" src="icons/css.png"></a>&nbsp;&nbsp;
 </p>
 
-## GitHub Stats 💻 
 
-![stats](https://github-readme-stats.vercel.app/api?username=frank-chris&show_icons=true&locale=en)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=frank-chris&show_icons=true&locale=en&layout=compact)
 
 ![views](https://komarev.com/ghpvc/?username=frank-chris&color=4F94EF&style=flat-square)
