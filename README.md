@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Chris
 
-- 📖 I am a junior undergraduate at IIT Gandhinagar majoring in Computer Science and Engineering. 
+- 📖 I am a senior undergraduate at IIT Gandhinagar majoring in Computer Science and Engineering. 
 - ✨ I am passionate about machine learning algorithms and building machine learning applications. 
 - ⚡ I also enjoy app development using Flutter and have worked on mobile apps for my institute. 
 
