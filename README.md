@@ -1,7 +1,8 @@
 # Hi 👋 I'm Chris
 
-- MS student at UC San Diego majoring in Computer Science with a specialization in Artificial Intelligence (2022-24)
-- Gold Medalist and BTech CSE, IIT Gandhinagar (2018-22)
+- Data Engineer, MedWatchers
+- MS CSE, UC San Diego (specialization in Artificial Intelligence)
+- Gold Medalist and BTech CSE, IIT Gandhinagar
 
 ### Contact:
 
