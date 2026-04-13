@@ -1,6 +1,6 @@
 # Hi 👋 I'm Chris
 
-- Data Engineer, MedWatchers
+- Senior Engineer, MedWatchers
 - MS CSE, UC San Diego (specialization in Artificial Intelligence)
 - Gold Medalist and BTech CSE, IIT Gandhinagar
 
